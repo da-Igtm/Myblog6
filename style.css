@@ -1,0 +1,64 @@
+ 
+body{
+text-align:center;
+color:purple;
+background-color:linear-gradient(#E1BEE7:0%,#90CAF9:100%);
+background-repeat:no-repeat;
+ }
+
+h1{
+text-shadow:2px 2px #F8BBD0;
+font-size: 20px;
+}
+img{
+border-radius:40%;  
+width:150px;
+height: 150px;
+transition: transform. 2s;
+border: 10px solid #AAAAAA;
+}
+
+.menu{
+font-family: cursive;
+top: 10px;
+right: 30px;
+cursor: pointer;
+color: black;
+position: fixed;
+}
+html{
+scroll-behavior: smooth;    
+}
+#myname{
+font-family: 'Courgette' , cursive ;
+}
+a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+
+h1{
+ font-family: 'Cinzel Decorative', cursive;
+margin: 20px;
+}
+
+.line{
+height: 6px;
+width: 70px;
+background-color: brown;
+margin: 8px auto;
+}
+
+p{
+max-width: 500px;
+margin: 50px auto;
+font-size: 18px;    
+}
+
+.links{
+color: black;
+padding: 9px;
+font-size: 20px;
+display:inline;
+}
